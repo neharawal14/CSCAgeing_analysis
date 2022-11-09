@@ -1,0 +1,13 @@
+ entries 306121 : 5940
+ entries 306122 : 8241
+ entries 306125 : 128413
+ entries 306126 : 7989
+ entries 306134 : 1369
+ entries 306135 : 66550
+
+# It looks for the period 39 fb-1 39.5 fb-1 LHC delievered (2956+42027) = 44983 events , while 39.5 fb-1 - 40 fb-1 , LHC delievered (559963+28684+7175+328861)= 204321 events. This info is stored in text file run_checking_F_input.txt
+#While from these runs at last we obtain in ME12HV1 ; 
+ # For (39-39.5 fb-1) = 5940+8241 = 14181 events
+For (39.5-40 fb-1) = 128413 +7989+1369+66550 = 204321 events
+
+I do not know why the input file has more events for the one delievered lumi period while has not for the other lumi period ?
